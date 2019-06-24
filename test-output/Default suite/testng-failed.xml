@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.Steps.Test_with_Testng">
+        <methods>
+          <include name="meth_finishTest"/>
+          <include name="meth_takeQuiz"/>
+          <include name="meth_goToSporcle"/>
+          <include name="meth_searchKingdomHearts"/>
+          <include name="meth_goToCharactersQuiz"/>
+          <include name="meth_initializeElements"/>
+        </methods>
+      </class> <!-- com.Steps.Test_with_Testng -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
