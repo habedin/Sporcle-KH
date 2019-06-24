@@ -26,9 +26,13 @@ public class FizzBuzz {
 		
 		// dsakdsadjbsab
 		
+<<<<<<< HEAD
 		// djsnadsja
 		
 		//dsadsadsa
+=======
+		// Sayma 2:10pm
+>>>>>>> branch 'master' of https://github.com/habedin/sporcle-kh
 
 	}
 }
